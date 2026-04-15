@@ -5,6 +5,6 @@ Chord DHT Simulator - SimPy + Streamlit
 Name: Y R Akshaya
 Register Number: 22MID0020
 
-Video Link
+🔗 Video Link
 
-Click here to watch the demonstration
+👉 Click here to watch the demonstration
